@@ -1,0 +1,27 @@
+JavaScript test
+
+1.Modify the Registration system to take in three inputs. ‘username’, ‘password’, ‘confirm
+password’.
+• Make sure the password and confirm password are the same. If not please alert
+the user to change the password or the confirm password.
+• Save the provided username and password in the local storage.
+• When the user provides the correct validated username and password, redirect
+them to the login page.
+
+2. From the Registration system we made., Create a simple login system.
+• The user should provide username and a password that has to be validated.
+• The provided username and password should already exist in the local storage.
+• If the user provides a username that does not exist in the local storage, alert them
+‘user does not exist’.
+• When the provided email and password exist, alert them a successful login and
+redirect them to a page with their saying welcome ‘username’
+Summary.
+➢ Create 3 html files, each linked to an individual JavaScript file.
+➢ CSS is optional but an added bonus.
+Things to consider.
+o Array methods.
+o Object Literal
+o If statements **
+o Functions with return statements.
+o A little DOM manipulation(query selectors and stuff.)
+o All the things we have learnt so far
